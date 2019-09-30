@@ -1,0 +1,11 @@
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Fundamentals_I\bin\Debug\netcoreapp2.2\Fundamentals_I.deps.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Fundamentals_I\bin\Debug\netcoreapp2.2\Fundamentals_I.runtimeconfig.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Fundamentals_I\bin\Debug\netcoreapp2.2\Fundamentals_I.runtimeconfig.dev.json
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Fundamentals_I\bin\Debug\netcoreapp2.2\Fundamentals_I.dll
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Fundamentals_I\bin\Debug\netcoreapp2.2\Fundamentals_I.pdb
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Fundamentals_I\obj\Debug\netcoreapp2.2\Fundamentals_I.csprojAssemblyReference.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Fundamentals_I\obj\Debug\netcoreapp2.2\Fundamentals_I.csproj.CoreCompileInputs.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Fundamentals_I\obj\Debug\netcoreapp2.2\Fundamentals_I.AssemblyInfoInputs.cache
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Fundamentals_I\obj\Debug\netcoreapp2.2\Fundamentals_I.AssemblyInfo.cs
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Fundamentals_I\obj\Debug\netcoreapp2.2\Fundamentals_I.dll
+D:\Coding_Dojo\C#_stack\Language Fundamentals\Language Essentials\Fundamentals_I\obj\Debug\netcoreapp2.2\Fundamentals_I.pdb
